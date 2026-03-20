@@ -1,27 +1,27 @@
 Project Overview
 
-This project is divided into two key components:
+This project is structured into two major segments:
 
-Part 1 – Business and Product Case Study
+Part 1 – Business & Product Evaluation
 
-Product analysis of PaisaBazaar
+In-depth analysis of the PaisaBazaar platform and its product offerings
 
-Revenue and margin evaluation
+Assessment of revenue streams and profit margins
 
-Cohort analysis to understand user behavior
+Cohort-based analysis to track customer behavior and retention patterns
 
-A/B testing strategy for product optimization
+Design of A/B testing frameworks for improving product performance
 
-Business guesstimates and market insights
+Market sizing, business estimations, and strategic insights
 
-Part 2 – Data-Driven Risk and Performance Analysis
+Part 2 – Data-Driven Risk & Performance Insights
 
-Loan dataset analysis
+Analysis of loan-related datasets to understand risk and trends
 
-Exploratory Data Analysis (EDA) using SQL
+Exploratory Data Analysis (EDA) performed using SQL
 
-Advanced SQL queries for insights
+Application of advanced SQL techniques to extract actionable insights
 
-Data analysis using Excel
+Data analysis and reporting using Excel
 
-Interactive dashboard development in Microsoft Power BI
+Creation of interactive dashboards using Microsoft Power BI for visualization
